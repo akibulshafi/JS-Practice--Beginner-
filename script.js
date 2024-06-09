@@ -79,7 +79,7 @@ if (marks >= 80 && marks <= 100) {
 // LOOPS 
 
 for (let say = 1; say <= 6; say++) {
-    console.log("I am a Nig");
+    console.log("I am a G");
 };
 
 let sum = 2;
